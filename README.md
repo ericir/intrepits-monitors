@@ -4,6 +4,6 @@ Per a començar, pots triar entre fer una ruta d'activitats privada per la canal
 
 <div class="button-group">
     <a href="#" class="button" color="blue">Ruta privada</a>
-    <a href="#" class="button">Ruta pública</a>
-    <a href="#" class="button">Enviar notícies</a>
+    <a href="#" class="button" color="blue">Ruta pública</a>
+    <a href="#" class="button" color="blue">Enviar notícies</a>
 </div>
